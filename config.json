@@ -3,7 +3,7 @@
   "latestVersion": "0.9.4",
   "displayVersion": "v0.9.4 LIMITED — ONLINE",
   "downloadUrl": "https://github.com/netwarker/FITech-Analyzer_PublicRelease/releases/latest",
-  "apiBaseUrl": "__CLOUDFLARE_API_URL_PENDING__",
+  "apiBaseUrl": "https://fitech-analyzer-api.fitechanalyzer.workers.dev",
   "feedbackEmail": "netwarker@gmail.com",
-  "message": "Online activation and feedback are being finalized. Manual/offline fallback remains available until the service URL is published."
+  "message": "Online 60-day activation and feedback service is live. Manual/offline fallback remains available if the online service cannot be reached."
 }
