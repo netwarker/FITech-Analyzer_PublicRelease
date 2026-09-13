@@ -1,0 +1,9 @@
+{
+  "product": "FiTech Log Analyzer",
+  "latestVersion": "0.9.4",
+  "displayVersion": "v0.9.4 LIMITED — ONLINE",
+  "downloadUrl": "https://github.com/netwarker/FITech-Analyzer_PublicRelease/releases/latest",
+  "apiBaseUrl": "__CLOUDFLARE_API_URL_PENDING__",
+  "feedbackEmail": "netwarker@gmail.com",
+  "message": "Online activation and feedback are being finalized. Manual/offline fallback remains available until the service URL is published."
+}
