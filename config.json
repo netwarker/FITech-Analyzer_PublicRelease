@@ -2,8 +2,9 @@
   "product": "FiTech Log Analyzer",
   "latestVersion": "0.9.4",
   "displayVersion": "v0.9.4 LIMITED — ONLINE",
-  "downloadUrl": "https://github.com/netwarker/FITech-Analyzer_PublicRelease/releases/latest",
+  "downloadUrl": "https://fitech-analyzer-api.fitechanalyzer.workers.dev/download/latest",
   "apiBaseUrl": "https://fitech-analyzer-api.fitechanalyzer.workers.dev",
   "feedbackEmail": "netwarker@gmail.com",
-  "message": "Online 60-day activation and feedback service is live. Manual/offline fallback remains available if the online service cannot be reached."
+  "availability": "United States, Canada, and Mexico",
+  "message": "Online 60-day activation, protected download, and feedback service are live. Download and online activation are currently limited to the United States, Canada, and Mexico."
 }
