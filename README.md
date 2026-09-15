@@ -1,8 +1,14 @@
 # FiTech Log Analyzer — Public Release
 
-This repository contains only public release information, user documentation, update metadata, and download links for **FiTech Log Analyzer**.
+This repository contains only public release information, user documentation, update metadata, and protected download links for **FiTech Log Analyzer**.
 
 The application is a free, limited-use Windows log-analysis and troubleshooting tool for supported FiTech EFI logs. The current limited-use authorization period is 60 days per Windows installation.
+
+## Availability
+
+The current limited release is available in the **United States, Canada, and Mexico**. The Windows download and online activation are checked by the FiTech Log Analyzer Cloudflare service using the visitor's country as determined from the connection IP address.
+
+**Download:** https://fitech-analyzer-api.fitechanalyzer.workers.dev/download/latest
 
 ## Important safety notice
 
@@ -12,7 +18,7 @@ FiTech Log Analyzer is an independent project and is not affiliated with, sponso
 
 ## Current release
 
-**v0.9.4 LIMITED — ONLINE** is the next public limited release. The executable will be published through GitHub Releases after final Windows build/activation testing.
+**v0.9.4 LIMITED — ONLINE** is the current public limited release.
 
 ## Support / feedback
 
